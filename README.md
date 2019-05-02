@@ -39,9 +39,9 @@ O S.O.M funciona através do cadastramento de pessoas atuantes na cultura. O foc
 
 ## Público Alvo
 
-1. Produto: de artistas, agentes, bookers, casas de shows, festivais, eventos, entre outros\
-1. Artistas: bandas, cantores, DJs, entre outros\
-1. Profissionais e Serviços: técnicos, comunicação, logística e estrutura\
+1. Produto: de artistas, agentes, bookers, casas de shows, festivais, eventos, entre outros
+1. Artistas: bandas, cantores, DJs, entre outros
+1. Profissionais e Serviços: técnicos, comunicação, logística e estrutura
 1. Público geral
 
 ### Estórias do Usuário
