@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/midianinja/som/blob/master/assets/images/logo.jpeg" width="200" alt="Mussum Ipsum">
+<img style="border-radius: 50%;" src="https://github.com/midianinja/som/blob/master/assets/images/logo.jpeg" width="200" alt="Mussum Ipsum">
 </p>
 <h1 align="center">Mussum Ipsum</h1>
 <p align="center">Mussum Ipsum, cacilds vidis litro abertis. Pra lá , depois divoltis porris, paradis.</p>
