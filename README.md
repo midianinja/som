@@ -1,6 +1,8 @@
-# SOM
-
-> Sistema Operacional Da Música
+<p align="center">
+<img src="https://github.com/midianinja/som/assets/logo.png" width="400" alt="Mussum Ipsum">
+</p>
+<h1 align="center">Mussum Ipsum</h1>
+<p align="center">Mussum Ipsum, cacilds vidis litro abertis. Pra lá , depois divoltis porris, paradis.</p>
 
 ## Índice
 
@@ -20,6 +22,8 @@ O Sistema Operacional da Música (S.O.M) é uma aceleradora de oportunidades da 
 O S.O.M é uma rede de oportunidades da música brasileira que busca conectar produtores e artistas numa dinâmica de rede social, desenvolvendo uma plataforma digital que interaja com os mais diferentes agentes da cadeia produtiva da música, construindo, posicionando e possibilitando convergências entre artistas, eventos, produtores e marcas num ambiente online.
 
 ## Histórico TNB
+
+http://tnb.art.br/
 
 O S.O.M funciona através do cadastramento de pessoas atuantes na cultura. O foco está em construir uma rede interativa que possa fomentar a área musical no Brasil. O primeiro TNB tinha o foco nas bandas, músicos e produtores da área. Nesse modelo atual buscamos ampliar esse público. O cadastramento feito pode ser para músicos, bandas, produtores de festivais e festas, DJs e donos de espaços de eventos. É importante não perder o foco da música e circular os cadastros com essa narrativa. Seu visual deve estar de acordo com seu público alvo. Peças com um visual atraente, mas simples funcionam bem. Repensar o logo é importante para entender se ainda funciona ou se mudamos algumas coisas, ou, até mesmo ele todo.
 
@@ -86,10 +90,15 @@ O S.O.M funciona através do cadastramento de pessoas atuantes na cultura. O foc
 | **Produtor** | - *Idem Artista* </br> - Oportunidades </br> - Cadastrar e gerenciar eventos e super-eventos </br> - Realizar curadoria on-line </br> - Montar banco de dados do evento </br> - Levantar indicadores econômicos e culturais do evento |
 | **Público** | - Players de música (recomendados) </br> - Compra de ingresso </br> - Possibilidade de baratear custos e viabilizar a ida a eventos com hospedagem solidária e grupo de carona </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural </br> - Distribuição e discos vinis, moda alternativa (loja) </br> - Campanhas para realização de shows nas cidades </br> - Hospedagem solidária </br> - Grupo de carona para festivais </br> - Clube de vantagens do usuário </br> - Perfil pessoal: possibilidade de interagir — comentar — e seguir artistas |
 
-## Softwares
+## Projetos
 
 * Mapas Culturais - https://github.com/hacklabr/mapasculturais
 * TNB - https://github.com/midianinja/toquenobrasil
+* SOM Web - https://github.com/midianinja/som-web
+* SOM Graphql API - https://github.com/midianinja/som-web
+* SOM Graphql API - https://github.com/midianinja/som-web
+* IDA = https://github.com/midianinja/ida-auth-serverless
+
 
 ## Parceiros
 
