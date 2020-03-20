@@ -1,8 +1,8 @@
 <p align="center">
-<img style="border-radius: 100px;" src="https://github.com/midianinja/som/blob/master/assets/images/logo.jpeg" width="200" alt="Mussum Ipsum">
+<img style="border-radius: 100px;" src="https://github.com/midianinja/som/blob/master/assets/images/logo.jpeg" width="200" alt="Sistema Operacional da Música">
 </p>
-<h1 align="center">Mussum Ipsum</h1>
-<p align="center">Mussum Ipsum, cacilds vidis litro abertis. Pra lá , depois divoltis porris, paradis.</p>
+<h1 align="center">Sistema Operacional da Música - S.O.M</h1>
+<p align="center">Acelecadora de oportunidades da música brasileira.</p>
 
 ## Índice
 
