@@ -144,9 +144,9 @@ The S.O.M works by registering people who work in the culture. The focus is on b
 | **Geral / General** | - Eventos / Events </br> - Super-Eventos / Big Events </br> - URL do perfil personalizada / Personal Profile URL|
 | **Artista / Artist** | - Disponibilizar e acessar contatos / Provide and access to contact list </br> - Mini bio / Short bio </br> - Vídeos (youtube, vimeo) / Videos (youtube and vimeo) </br> - Fotos / Photos </br> - Documentos (rider, outros) / Documents (riders, portfolios, and others) </br> - Músicas / Songs </br> - Redes Sociais / Social Media </br> - Agenda / Events </br> - Relacionar-se com outros usuários / Interact with other users </br> - Indicadores / Indicators and numbers </br> - Quantidade de produtores que possuem interesse no artista / Amount of managers that are interested in the artist profile </br> - Mailing contato de produtores / eventos / Mailing of manager and events </br> - Número de acesso produtores / região / Amount of access to the profile|
 | **Produtor / Manager** | - *Idem Artista* </br> - Oportunidades / The same as the artist(above) </br> - Cadastrar e gerenciar eventos e super-eventos / Relase and spread opportunities and events </br> - Realizar curadoria on-line / Online curating </br> - Montar banco de dados do evento / Database with events information </br> - Levantar indicadores econômicos e culturais do evento / Economics and cultural Indicators |
-| **Público / Audience** | - Players de música (recomendados) / Music recommended players  </br> - Compra de ingresso </br> - Possibilidade de baratear custos e viabilizar a ida a eventos com hospedagem solidária e grupo de carona / Possibilities to lower costs and make feasible events with soliday hosting and hitchhiking groups </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural </br> - Distribuição e discos vinis, moda alternativa (loja) </br> - Campanhas para realização de shows nas cidades </br> - Hospedagem solidária </br> - Grupo de carona para festivais </br> - Clube de vantagens do usuário </br> - Perfil pessoal: possibilidade de interagir — comentar — e seguir artistas / Personal Profile: possibility to interact, comment and follow artists |
+| **Público / Audience** | - Players de música (recomendados) / Music recommended players  </br> - Compra de ingresso / ticket purchase </br> - Possibilidade de baratear custos e viabilizar a ida a eventos com hospedagem solidária e grupo de carona / Possibilities to lower costs and make feasible events with soliday hosting and hitchhiking groups </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural / Relevant Video and text contents about the cultural scene </br> - Distribuição e discos vinis, moda alternativa (loja) / Distribution  of EPs, Vinyl records and alternative fashion (store)</br> - Campanhas para realização de shows nas cidades / Campaigns to produce shows in different cities/towns </br> - Hospedagem solidária / Access to solidary hosting </br> - Grupo de carona para festivais / Advantage club to the users </br> - Clube de vantagens do usuário / Users Advantage Club </br> - Perfil pessoal: possibilidade de interagir — comentar — e seguir artistas / Personal Profile: possibility to interact, comment and follow artists |
 
-## Projetos
+## Projetos / Projects
 
 * Mapas Culturais - https://github.com/hacklabr/mapasculturais
 * TNB - https://github.com/midianinja/toquenobrasil
@@ -155,14 +155,13 @@ The S.O.M works by registering people who work in the culture. The focus is on b
 * SOM Graphql API - https://github.com/midianinja/som-web
 * IDA = https://github.com/midianinja/ida-auth-serverless
 
-
-## Parceiros
+## Parceiros / Partners
 
 ### PlayaX
 
 Documentação para integração: https://playax.com/api/docs.html
 
-## Publicação do Pitch
+## Publicação do Pitch / Pitch Publication
 
 * https://github.com/FeiraDaMusica/grupo-01
 * https://github.com/FeiraDaMusica/grupo-02
