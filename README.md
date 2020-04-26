@@ -32,13 +32,30 @@ The S.O.M. is a network of opportunities of the Brazilian music  that connects p
 
 http://tnb.art.br/
 
-O S.O.M funciona através do cadastramento de pessoas atuantes na cultura. O foco está em construir uma rede interativa que possa fomentar a área musical no Brasil. O primeiro TNB tinha o foco nas bandas, músicos e produtores da área. Nesse modelo atual buscamos ampliar esse público. O cadastramento feito pode ser para músicos, bandas, produtores de festivais e festas, DJs e donos de espaços de eventos. É importante não perder o foco da música e circular os cadastros com essa narrativa. Seu visual deve estar de acordo com seu público alvo. Peças com um visual atraente, mas simples funcionam bem. Repensar o logo é importante para entender se ainda funciona ou se mudamos algumas coisas, ou, até mesmo ele todo.
+Em 2010 a Rede Fora do Eixo lançou o Toque no Brasil (www.tnb.art.br), uma plataforma de agenciamento online que seguia a lógica de rede social, para integrar, fortalecer e dinamizar a relação entre artistas, produtores e público. No TNB, os artistas e produtores criavam seus respectivos perfis, onde podiam carregar todo tipo de mídia (músicas, fotos, vídeos, textos, etc), tendo seu portfólio disponível para divulgação, ao mesmo tempo em que podiam interagir uns com os outros, deixando recados, "curtindo" e assim por diante. Ao passo que os produtores podiam oferecer espaço e vagas para shows em editais abertos dentro da plataforma, o que transformou o site numa incrível ferramenta de curadoria, facilitando o contato direto e sem intermediários entre produtores e artistas e implementando a funcionalidade de "oportunidades". O site possui mais 30 mil artistas e 3 mil produtores cadastrados, que foram acessadas por mais de 2,5 milhões de pessoas diretamente na plataforma. 
+
+Passados 9 anos novos modelos de negócios da música provocados pelo ambiente digital foram desenvolvidos e os serviços de streaming se tornaram uma solução gratuita para uma geração pouco acostumada a pagar por música. Porém, ao passo que surgiu esta solução, surgiram ou agravaram-se outras dores da cadeia produtiva da música como: a diminuição do público nos shows, preenchimento de agendas de shows e acesso rápido a elas, gestão de carreira dos artistas em tempos de produção independente, novos modelos de controle de arrecadação de direitos autorais e, mais uma vez, a necessidade de encurtar as distâncias e criar novas oportunidades.
+
+A internet e o digital redimensionam o tempo para a instantaneidade e os diferentes setores da cultura, como a música, estão desafiados a se reorganizarem e refundarem modelos de negócios que gerem sustentabilidade e continuidade de suas ações. Tornou-se urgente a criação de soluções para este novo cenário.
+
+Por conta deste contexto, de 15 a 17 de fevereiro de 2019 em Fortaleza/CE, se realizou na programação da Feira Música, durante a Zona de Propulsão, uma maratona hacker de 48 horas que conectou músicos, produtores, gestores públicos, desenvolvedores, UX designers, analistas de dados, game devs, empreendedores e outros agentes do hackerismo para pensar e agir juntos para a  transformação da cultura digital na música. 
+
+Neste evento, re-funda-se e apresenta-se a nova atualização do TNB: o Sistema Operacional da Música, entendendo-a como um grande espaço para a troca de produtos, serviços e tecnologias para auxiliar na formação da nova geração de músicos ainda invisibilizados. Cravando um novo marco na história da música independente do Brasil.
 
 ### Background TBN 
 
 http://tnb.art.br/
 
-The S.O.M works by registering people who work in the culture. The focus is on building an interactive network that can foster the music field in Brazil. The first TNB focused on bands, musicians and producers in the area. In this current model we seek to expand this audience. The registration can be made for musicians, bands, producers of festivals and events, DJs and establishments. It is important not to lose the focus of the music and circulate the records with this narrative. Your look should be in line with your target audience. Parts with an attractive but simple look work well. Rethinking the logo is important to understand if it still works or if we change some things, or even the whole thing.
+
+In 2010, the Fora do Eixo Network launched Toque no Brasil (www.tnb.art.br), an online agency platform that followed the social network logic, to integrate, strengthen and boost the relationship between artists, producers and the public. At TNB, artists and producers created their respective profiles, where they could upload all kinds of media (music, photos, videos, texts, etc.), having their portfolio available for dissemination, at the same time that they could interact with each other, leaving messages, "enjoying" and so on. While producers were able to offer space and places for concerts in open calls within the platform, which transformed the site into an incredible curatorial tool, facilitating direct and intermediary contact between producers and artists and implementing the "opportunities" functionality. The site has over 30 thousand artists and 3 thousand registered producers, which were accessed by more than 2.5 million people directly on the platform.
+
+After 9 years, new music business models brought about by the digital environment have been developed and streaming services have become a free solution for a generation unaccustomed to paying for music. However, while this solution emerged, other pains in the music production chain emerged or worsened, such as: the decrease in the audience at concerts, filling in concert schedules and quick access to them, career management of artists in production times independent, new models to control copyright collection and, once again, the need to shorten distances and create new opportunities.
+
+The internet and digital resize the time for instantaneousness and the different sectors of culture, such as music, are challenged to reorganize themselves and to refound business models that generate sustainability and continuity of their actions. It became urgent to create solutions for this new scenario.
+
+Because of this context, from February 15 to 17, 2019 in Fortaleza / CE, a 48-hour hacker marathon was held during the Propulsion Zone, during the Propulsion Zone, which connected musicians, producers, public managers, developers, UX designers, data analysts, game devs, entrepreneurs and other agents of hacking to think and act together for the transformation of digital culture in music.
+
+In this event, TNB's new update is re-founded and presented: the Music Operating System, understanding it as a great space for exchanging products, services and technologies to assist in the formation of the new generation of musicians. made invisible. Setting a new milestone in the history of independent music in Brazil.
 
 ## Dados TNB / TNB Data
 
@@ -107,10 +124,10 @@ The S.O.M works by registering people who work in the culture. The focus is on b
 
 * Login/cadastro 
 * Perfil Personalizável: Capa do perfil, foto, sistema de avaliação
-* Mapa
+* Mapa da Música 
 * Ferramentas de gestão de tour, booking, analytics
 * Networking
-* Oportunidades
+* Oportunidades (presenciais ou digitais)
 * Agenda
 * Fóruns
 * Classificados
@@ -120,22 +137,30 @@ The S.O.M works by registering people who work in the culture. The focus is on b
 * Cursos On-line
 * Anúncios
 * Financiamento colaborativo
+* Monetização 
+* Streeming 
+* Clube de Vantagens para fãs
 
 #### Services 
 
-* Login/Registration
-* Personal Profile(head image, photo, evaluation system) 
-* Map
-* Management Tools for Tour managing, Artist managing, Booking agency; 
-* Networking; 
-* Agendas;
-* Forums;
+* Login / Register
+* Customizable Profile: Profile cover, photo, rating system
+* Music Map
+* Tour management, booking, analytics tools
+* Networking
+* Opportunities (in person or digital)
+* Schedule
+* Forums
+* Classified
 * News
-* Blog 
+* Blog
 * Store
-* Online courses 
-* Publicity
-* Crowdfunding 
+* Online courses
+* Adverts
+* Collaborative funding
+* Monetization
+* Streaming
+* Fan Advantage Club
 
 </br>
 
@@ -143,8 +168,8 @@ The S.O.M works by registering people who work in the culture. The focus is on b
 | ------------ | ------------ |
 | **Geral / General** | - Eventos / Events </br> - Super-Eventos / Big Events </br> - URL do perfil personalizada / Personal Profile URL|
 | **Artista / Artist** | - Disponibilizar e acessar contatos / Provide and access to contact list </br> - Mini bio / Short bio </br> - Vídeos (youtube, vimeo) / Videos (youtube and vimeo) </br> - Fotos / Photos </br> - Documentos (rider, outros) / Documents (riders, portfolios, and others) </br> - Músicas / Songs </br> - Redes Sociais / Social Media </br> - Agenda / Events </br> - Relacionar-se com outros usuários / Interact with other users </br> - Indicadores / Indicators and numbers </br> - Quantidade de produtores que possuem interesse no artista / Amount of managers that are interested in the artist profile </br> - Mailing contato de produtores / eventos / Mailing of manager and events </br> - Número de acesso produtores / região / Amount of access to the profile|
-| **Produtor / Manager** | - *Idem Artista* </br> - Oportunidades / The same as the artist(above) </br> - Cadastrar e gerenciar eventos e super-eventos / Relase and spread opportunities and events </br> - Realizar curadoria on-line / Online curating </br> - Montar banco de dados do evento / Database with events information </br> - Levantar indicadores econômicos e culturais do evento / Economics and cultural Indicators |
-| **Público / Audience** | - Players de música (recomendados) / Music recommended players  </br> - Compra de ingresso / ticket purchase </br> - Possibilidade de baratear custos e viabilizar a ida a eventos com hospedagem solidária e grupo de carona / Possibilities to lower costs and make feasible events with soliday hosting and hitchhiking groups </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural / Relevant Video and text contents about the cultural scene </br> - Distribuição e discos vinis, moda alternativa (loja) / Distribution  of EPs, Vinyl records and alternative fashion (store)</br> - Campanhas para realização de shows nas cidades / Campaigns to produce shows in different cities/towns </br> - Hospedagem solidária / Access to solidary hosting </br> - Grupo de carona para festivais / Advantage club to the users </br> - Clube de vantagens do usuário / Users Advantage Club </br> - Perfil pessoal: possibilidade de interagir — comentar — e seguir artistas / Personal Profile: possibility to interact, comment and follow artists |
+| **Produtor / Manager** | - *Idem Artista/ The same as the artist(above)* </br> - Oportunidades (presenciais ou digitais) /  Opportunities (in person or digital)  </br> - Cadastrar e gerenciar eventos e super-eventos / Relase and spread opportunities and events </br> - Realizar curadoria on-line / Online curating </br> - Montar banco de dados do evento / Database with events information </br> - Levantar indicadores econômicos e culturais do evento / Economics and cultural Indicators | - Streeming de eventos / Streeming of events eventos
+| **Público / Audience** | - Players de música (recomendados) / Music recommended players  </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural / Relevant Video and text contents about the cultural scene </br> - Clube de vantagens do usuário / Users Advantage Club </br> - Perfil pessoal: possibilidade de interagir — comentar — e seguir artistas / Personal Profile: possibility to interact, comment and follow artists |
 
 ## Projetos / Projects
 
@@ -154,20 +179,3 @@ The S.O.M works by registering people who work in the culture. The focus is on b
 * SOM Graphql API - https://github.com/midianinja/som-web
 * SOM Graphql API - https://github.com/midianinja/som-web
 * IDA = https://github.com/midianinja/ida-auth-serverless
-
-## Parceiros / Partners
-
-### PlayaX
-
-Documentação para integração: https://playax.com/api/docs.html
-
-## Publicação do Pitch / Pitch Publication
-
-* https://github.com/FeiraDaMusica/grupo-01
-* https://github.com/FeiraDaMusica/grupo-02
-* https://github.com/FeiraDaMusica/grupo-03
-* https://github.com/FeiraDaMusica/grupo-04
-* https://github.com/FeiraDaMusica/grupo-05
-* https://github.com/FeiraDaMusica/grupo-06
-* https://github.com/FeiraDaMusica/grupo-07
-* https://github.com/FeiraDaMusica/grupo-08
