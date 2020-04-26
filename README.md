@@ -172,10 +172,7 @@ In this event, TNB's new update is re-founded and presented: the Music Operating
 | **Público / Audience** | - Players de música (recomendados) / Music recommended players  </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural / Relevant Video and text contents about the cultural scene </br> - Clube de vantagens do usuário / Users Advantage Club </br> - Perfil pessoal: possibilidade de interagir — comentar — e seguir artistas / Personal Profile: possibility to interact, comment and follow artists |
 
 ## Projetos / Projects
-
-* Mapas Culturais - https://github.com/hacklabr/mapasculturais
 * TNB - https://github.com/midianinja/toquenobrasil
 * SOM Web - https://github.com/midianinja/som-web
-* SOM Graphql API - https://github.com/midianinja/som-web
 * SOM Graphql API - https://github.com/midianinja/som-web
 * IDA = https://github.com/midianinja/ida-auth-serverless
