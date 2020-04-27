@@ -1,8 +1,8 @@
 <p align="center">
 <img style="border-radius: 100px;" src="https://github.com/midianinja/som/blob/master/assets/images/logo.jpeg" width="200" alt="Sistema Operacional da Música">
 </p>
-<h1 align="center">Sistema Operacional da Música - S.O.M</h1>
-<p align="center">Aceleradora de oportunidades da música brasileira.</p>
+<h1 align="center">Music Operational System - S.O.M</h1>
+<p align="center">Music Opportunities Accelator in Latin America.</p>
 
 ## Índice
 
