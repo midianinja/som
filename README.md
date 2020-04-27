@@ -6,8 +6,8 @@
 
 ## Índice
 
-1. [O Projeto](#o-projeto)
 1. [Traduções](#traduções)
+1. [O Projeto](#o-projeto)
 1. [TNB](#histórico-tnb)
 1. [Objetivos](#objetivos)
 1. [Público Alvo](#público-alvo)
