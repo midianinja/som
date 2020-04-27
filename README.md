@@ -108,8 +108,13 @@ Neste evento, re-funda-se e apresenta-se a nova atualização do TNB: o Sistema 
 | **Público** | - Players de música (recomendados) </br> - Conteúdo de vídeos e textos relevantes sobre a cena cultural </br> - Clube de vantagens do usuário </br> - Perfil pessoal: possibilidade de interagir (comentar e seguir artistas) |
 
 ## Projetos
-* TNB - https://github.com/midianinja/toquenobrasil
+
+Neste repositório estão vários links importantes referentes as fontes do projeto como um todo e, também, neste item os demais repositórios onde você pode encontrar nosso desenvolvimento.
+
 * SOM Web - https://github.com/midianinja/som-web
 * SOM Graphql API - https://github.com/midianinja/som-graphql-api
 * SOM Storage API - https://github.com/midianinja/som-storage-server-api
+
+Projetos Relacionados
+* TNB - https://github.com/midianinja/toquenobrasil
 * IDA = https://github.com/midianinja/ida-auth-serverless
