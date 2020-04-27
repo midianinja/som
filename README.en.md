@@ -7,7 +7,7 @@
 ## Índice
 
 1. [The Project](#the-project)
-1. [Traduções](#traduções)
+1. [Translations](#translations)`
 1. [TNB](#background-tnb)
 1. [Objectives](#objectives)
 1. [Target Audience](#target-audience)
@@ -16,7 +16,7 @@
 1. [Partners](#partners)
 1. [Pitch Publication](#publicação-do-pitch)
 
-## Traduções
+## Translations
 
 1. [PT/BR](https://github.com/midianinja/som)
 1. [EN/US](https://github.com/midianinja/som/blob/master/README.en.md)
