@@ -105,8 +105,11 @@ In this event, TNB's new update is re-founded and presented: the Music Operating
 | **Audience** | - Music recommended players  </br> - Relevant Video and text contents about the cultural scene </br> - Users Advantage Club </br> - Personal Profile: possibility to interact, comment and follow artists |
 
 ## Projects
-* TNB - https://github.com/midianinja/toquenobrasil
+In this repository, you can find many important links about the project and, also other repositories about our development process.
 * SOM Web - https://github.com/midianinja/som-web
 * SOM Graphql API - https://github.com/midianinja/som-graphql-api
 * SOM Storage API - https://github.com/midianinja/som-storage-server-api
+
+Related Projects
+* TNB - https://github.com/midianinja/toquenobrasil
 * IDA = https://github.com/midianinja/ida-auth-serverless
