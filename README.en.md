@@ -107,5 +107,6 @@ In this event, TNB's new update is re-founded and presented: the Music Operating
 ## Projects
 * TNB - https://github.com/midianinja/toquenobrasil
 * SOM Web - https://github.com/midianinja/som-web
-* SOM Graphql API - https://github.com/midianinja/som-web
+* SOM Graphql API - https://github.com/midianinja/som-graphql-api
+* SOM Storage API - https://github.com/midianinja/som-storage-server-api
 * IDA = https://github.com/midianinja/ida-auth-serverless

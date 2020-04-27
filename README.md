@@ -110,5 +110,6 @@ Neste evento, re-funda-se e apresenta-se a nova atualização do TNB: o Sistema 
 ## Projetos
 * TNB - https://github.com/midianinja/toquenobrasil
 * SOM Web - https://github.com/midianinja/som-web
-* SOM Graphql API - https://github.com/midianinja/som-web
+* SOM Graphql API - https://github.com/midianinja/som-graphql-api
+* SOM Storage API - https://github.com/midianinja/som-storage-server-api
 * IDA = https://github.com/midianinja/ida-auth-serverless
