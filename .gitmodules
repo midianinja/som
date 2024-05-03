@@ -1,0 +1,12 @@
+[submodule "app/som-web-ssr"]
+	path = app/som-web-ssr
+	url = git@github.com:midianinja/som-web-ssr.git
+[submodule "app/som-graphql-api"]
+	path = app/som-graphql-api
+	url = git@github.com:midianinja/som-graphql-api.git
+[submodule "app/ida-auth-serverless"]
+	path = app/ida-auth-serverless
+	url = git@github.com:midianinja/ida-auth-serverless.git
+[submodule "app/som-storage-server-api"]
+	path = app/som-storage-server-api
+	url = git@github.com:midianinja/som-storage-server-api.git
